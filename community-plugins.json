@@ -60366,5 +60366,12 @@
     "author": "Nikolay Ponomarev",
     "description": "Enhance Mermaid flowcharts with compact layouts, aligned branches, and smooth ancestor path highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "itsnikolay/obsidian-mermaid-flow-enhancer"
+  },
+  {
+    "id": "andante",
+    "name": "Andante",
+    "author": "JordtCasbeer535",
+    "description": "An elegant metronome that lives in your sidebar.",
+    "repo": "JordtCasbeer535/obsidian-andante"
   }
 ]
